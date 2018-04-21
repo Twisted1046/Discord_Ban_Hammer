@@ -1,1 +1,1 @@
-worker: node ban_hammer.js
+worker node ban_hammer.js
