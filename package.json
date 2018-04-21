@@ -1,0 +1,14 @@
+{
+  "name": "ban_hammer",
+  "version": "1.0.0",
+  "description": "A server administrator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ban_hammer.js"
+  },
+  "author": "Twisted",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
